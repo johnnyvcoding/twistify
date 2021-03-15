@@ -20,7 +20,7 @@ function Copyright() {
 				href='https://github.com/johnnyvcoding'
 				target='_blank'
 			>
-				Your Website
+				Twistify
 			</Link>{' '}
 			{new Date().getFullYear()}
 			{'.'}
