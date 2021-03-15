@@ -1,7 +1,6 @@
 import React from 'react';
 import axios from 'axios';
 import { TextField } from '@material-ui/core';
-import Button from '@material-ui/core/Button';
 
 import { Bar } from 'react-chartjs-2';
 import Title from './Title';

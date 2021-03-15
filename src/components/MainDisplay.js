@@ -9,7 +9,6 @@ import Link from '@material-ui/core/Link';
 import Box from '@material-ui/core/Box';
 
 import Chart from './Chart';
-import Deposits from './Deposits';
 import Orders from './Orders';
 function Copyright() {
 	return (
